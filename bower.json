@@ -1,0 +1,26 @@
+{
+  "name": "task-management-workshop",
+  "description": "Task Management Workshop",
+  "main": "main.js",
+  "authors": [
+    "streetcoder"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "gulp",
+    "bower",
+    "npm",
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}

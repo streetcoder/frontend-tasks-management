@@ -1,0 +1,8 @@
+.custom-box{
+  width: 100px;
+  height: 100px;
+  background: $custom-box-bg;
+  margin-top: 50px;
+  border: 10px solid green;
+  @include border-radius(20px);
+}
